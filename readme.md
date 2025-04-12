@@ -6,7 +6,7 @@
 ## This Repository include following reinforcement learning projects
 
     1. Q-learning
-        - 
+        - Taxi v3 problem 
     
     2. Deep Q networks
-        - 
+        - Self driving car simulation
